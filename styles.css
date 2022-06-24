@@ -1,7 +1,45 @@
 /* Write your CSS here! */
-div {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+#mainHeading {
+    color: red;
+ }
+ h1 {
+     color: red;
+     font-size:x-large;
+ }
+.center {
+  text-align: center;
+}
+
+ body  {
+    text-align:center;
+}
+#testP {
+    color: green;
+ }
+
+.point{
+    font-size: large;
+}
+
+ body {
+    display:block
+}
+p {
+   margin : 25px 50px 75px 100px;
+   background-color: azure;
   }
+  .center {
+    text-align: center;
+    color: azure;
+    font-size: large;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  
+
+
